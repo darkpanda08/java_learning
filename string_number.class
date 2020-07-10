@@ -9,7 +9,7 @@ public class string_number {
         System.out.print("Enter the the no. of integers in string: ");
         int N = scan1.nextInt();
         System.out.print("Enter the string with numbers: ");
-        scan1.nextLine();
+        scan1.nextLine(); // To discard /n character
         String str = scan1.nextLine();
 
         // Initializing Variables
