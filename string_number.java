@@ -8,7 +8,7 @@ public class string_number {
         // Reading Input
         System.out.print("Enter the the no. of integers in string: ");
         int N = scan1.nextInt();
-        System.out.print("Enter the string with numbers: ");
+        System.out.print("Enter the string with numbers(seperated by ,): ");
         scan1.nextLine(); // To discard /n character
         String str = scan1.nextLine();
 
