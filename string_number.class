@@ -41,9 +41,7 @@ public class string_number {
 }
 
 
-/*
-OUTPUT
-
+/* OUTPUT
 Enter the the no. of integers in string: 4
 Enter the string with numbers: 14,97,125,2
 14
